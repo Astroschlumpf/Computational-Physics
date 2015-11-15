@@ -49,21 +49,7 @@ If for some reason the solution using VirtualBox should not work, you can use a 
 - [Git Tutorial](https://www.atlassian.com/git/)
 
 
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=10700535; 
-var sc_invisible=1; 
-var sc_security="6a6346c3"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="shopify traffic
-stats" href="http://statcounter.com/shopify/"
-target="_blank"><img class="statcounter"
+<a title="shopify traffic stats"
+href="http://statcounter.com/shopify/" target="_blank"><img
 src="http://c.statcounter.com/10700535/0/6a6346c3/1/"
-alt="shopify traffic stats"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-
+alt="shopify traffic stats" style="border:none;"></a>
